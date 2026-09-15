@@ -1,6 +1,6 @@
 # 전자정부 표준프레임워크 실행환경 (eGovFrame Runtime)
 
-[![eGovFrame](https://img.shields.io/badge/eGovFrame-5.0.0-134F8C?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPHBhdGggZD0iTTUgMTJoMTQiLz48cGF0aCBkPSJNMTkgMTJhNyA3IDAgMSAwLTMuNSA2LjA2Ii8%2BPC9zdmc%2B&logoColor=white)](https://www.egovframe.go.kr)
+[![eGovFrame](https://img.shields.io/badge/eGovFrame-5.0.0-134F8C?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgdHJhbnNmb3JtPSJyb3RhdGUoLTkwIDEyIDEyKSI%2BPHBhdGggZD0iTTEyIDBBMTIgMTIgMCAwIDEgMTIgMjRBNiA2IDAgMCAwIDEyIDEyQTYgNiAwIDAgMSAxMiAwWiIgZmlsbD0iI0NEMkUzQSIvPjxwYXRoIGQ9Ik0xMiAyNEExMiAxMiAwIDAgMSAxMiAwQTYgNiAwIDAgMCAxMiAxMkE2IDYgMCAwIDEgMTIgMjRaIiBmaWxsPSIjMDA0N0EwIi8%2BPC9nPjwvc3ZnPg%3D%3D)](https://www.egovframe.go.kr)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue?logo=apache&logoColor=white)](https://www.apache.org/licenses/LICENSE-2.0.txt)
 [![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/17/)
 [![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6.2.11-brightgreen?logo=spring&logoColor=white)](https://spring.io/projects/spring-framework)
