@@ -1,9 +1,25 @@
 # 전자정부 표준프레임워크 실행환경 (eGovFrame Runtime)
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt)
-[![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
-[![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6.2.11-brightgreen.svg)](https://spring.io/)
-[![Maven](https://img.shields.io/badge/Maven-3.6+-red.svg)](https://maven.apache.org/)
+[![eGovFrame](https://img.shields.io/badge/eGovFrame-5.0.0-134F8C?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPHBhdGggZD0iTTUgMTJoMTQiLz48cGF0aCBkPSJNMTkgMTJhNyA3IDAgMSAwLTMuNSA2LjA2Ii8%2BPC9zdmc%2B&logoColor=white)](https://www.egovframe.go.kr)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue?logo=apache&logoColor=white)](https://www.apache.org/licenses/LICENSE-2.0.txt)
+[![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/17/)
+[![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6.2.11-brightgreen?logo=spring&logoColor=white)](https://spring.io/projects/spring-framework)
+[![Maven](https://img.shields.io/badge/Maven-3.6+-red?logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![Security](https://img.shields.io/badge/Security-CodeQL-2C3E50?logo=github&logoColor=white)](.github/workflows/ci.yml)
+
+[![Last commit](https://img.shields.io/github/last-commit/overpassion/egovframe-runtime?logo=github&logoColor=white)](https://github.com/overpassion/egovframe-runtime/commits/main)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/overpassion/egovframe-runtime)](https://github.com/overpassion/egovframe-runtime/pulse)
+[![Contributors](https://img.shields.io/github/contributors/overpassion/egovframe-runtime)](https://github.com/overpassion/egovframe-runtime/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/overpassion/egovframe-runtime)](https://github.com/overpassion/egovframe-runtime/issues)
+[![Pull requests](https://img.shields.io/github/issues-pr/overpassion/egovframe-runtime)](https://github.com/overpassion/egovframe-runtime/pulls)
+[![Top language](https://img.shields.io/github/languages/top/overpassion/egovframe-runtime)](https://github.com/overpassion/egovframe-runtime)
+[![Code size](https://img.shields.io/github/languages/code-size/overpassion/egovframe-runtime)](https://github.com/overpassion/egovframe-runtime)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](#기여하기)
+
+<!-- CI 배지: ci.yml 워크플로가 최소 1회 실행되면 아래 주석을 해제하세요.
+     (현재 이 저장소에는 워크플로가 감시하는 contribution 브랜치가 없어 실행 이력이 없습니다.)
+[![CI](https://github.com/overpassion/egovframe-runtime/actions/workflows/ci.yml/badge.svg?branch=contribution)](https://github.com/overpassion/egovframe-runtime/actions/workflows/ci.yml)
+-->
 
 전자정부 표준프레임워크의 런타임 컴포넌트를 제공하는 멀티 모듈 Maven 프로젝트입니다.
 
